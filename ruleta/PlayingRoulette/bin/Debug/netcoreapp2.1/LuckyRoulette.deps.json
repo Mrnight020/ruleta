@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LuckyRoulette/1.0.0": {
+        "runtime": {
+          "LuckyRoulette.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuckyRoulette/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

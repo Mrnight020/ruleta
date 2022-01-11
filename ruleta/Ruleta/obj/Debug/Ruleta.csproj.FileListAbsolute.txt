@@ -1,0 +1,10 @@
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\bin\Debug\Ruleta.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\bin\Debug\Ruleta.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\bin\Debug\Ruleta.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\obj\Debug\Ruleta.csprojAssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\obj\Debug\Ruleta.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\obj\Debug\Ruleta.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\obj\Debug\Ruleta.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\obj\Debug\Ruleta.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\obj\Debug\Ruleta.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\Ruleta\Ruleta\obj\Debug\Ruleta.start.resources

@@ -1,0 +1,12 @@
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\bin\Debug\netcoreapp2.1\LuckyRoulette.deps.json
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\bin\Debug\netcoreapp2.1\LuckyRoulette.runtimeconfig.json
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\bin\Debug\netcoreapp2.1\LuckyRoulette.runtimeconfig.dev.json
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\bin\Debug\netcoreapp2.1\LuckyRoulette.dll
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\bin\Debug\netcoreapp2.1\LuckyRoulette.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\obj\Debug\netcoreapp2.1\LuckyRoulette.csprojAssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\obj\Debug\netcoreapp2.1\LuckyRoulette.AssemblyInfoInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\obj\Debug\netcoreapp2.1\LuckyRoulette.AssemblyInfo.cs
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\obj\Debug\netcoreapp2.1\LuckyRoulette.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\obj\Debug\netcoreapp2.1\LuckyRoulette.dll
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\obj\Debug\netcoreapp2.1\LuckyRoulette.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\ruleta\PlayingRoulette\obj\Debug\netcoreapp2.1\LuckyRoulette.genruntimeconfig.cache
